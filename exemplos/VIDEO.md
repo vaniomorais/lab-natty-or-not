@@ -16,4 +16,4 @@ Usei o "ChatGPT" para escrever roteiro do vídeo. O Synthesia foi essencial para
 [LINK PARA O VÍDEO AQUI](https://github.com/vaniomorais/lab-natty-or-not/blob/main/exemplos/Wonders%20of%20AI.mp4)
 
 ## 💭 Reflexão
-Foi um projeto interressante pra conhecer um pouquinho da capacidade das IAs Generativas. Só uma perguntam, assistam e respondam: Its Natural or fake Natty?
+Foi um projeto interressante pra conhecer um pouquinho da capacidade das IAs Generativas. Só uma pergunta, assistam e respondam: Its Natural or fake Natty?
